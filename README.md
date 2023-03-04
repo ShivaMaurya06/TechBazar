@@ -2,6 +2,16 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
+Check live demo at: https://techbazar.onrender.com
+
+> Log In Credentials
+```
+email: jayesh@example.com
+password: 123456
+
+Fake payment method 'Paypal' is available.
+Just click on paypal button on order screen.
+```
 ## Screenshots
 ### 1.
 ![Screenchot](https://github.com/ShivaMaurya06/techbazar/blob/main/uploads/app_pic1.png)

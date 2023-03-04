@@ -5,8 +5,8 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "build": "npm install && npm run data:import && cd frontend && npm install --legacy-peer-deps && npm run build" ,
-    "start": "node backend/server",
+    "build": "npm install && cd frontend && npm install --legacy-peer-deps && npm run build" ,
+    "start": "node backend/server && npm run data:destroy && npm run data:import",
     "server": "nodemon backend/server",
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\"",

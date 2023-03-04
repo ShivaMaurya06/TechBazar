@@ -12,7 +12,7 @@ password: 123456
 Fake payment method 'Paypal' is available.
 Just click on paypal button on order payment screen.
 
-Paypal Credentils:
+Paypal Credentials:
 email: jayesh@paypal.example.com
 password: jk123456
 

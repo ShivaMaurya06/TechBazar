@@ -10,7 +10,7 @@ email: jayesh@example.com
 password: 123456
 
 Fake payment method 'Paypal' is available.
-Just click on paypal button on order screen.
+Just click on paypal button on order payment screen.
 ```
 ## Screenshots
 ### 1.
